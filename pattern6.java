@@ -66,6 +66,7 @@ public class pattern6 {
                 }
             }
             System.out.println(); //! Move to the next line
+            sc.close();
         }
     }
 }
